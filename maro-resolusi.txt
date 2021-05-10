@@ -2,3 +2,5 @@ maro resolusi
 - konsisten membuat konten dua kali seminggu
 - mempelajari css
 - mengajari orang
+- membuat web yang lebih bagus
+- kolaborasi dengan lebih banyak
